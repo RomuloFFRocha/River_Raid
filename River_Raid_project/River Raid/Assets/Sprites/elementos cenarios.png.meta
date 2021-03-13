@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: e093e89a78fe239459439d8702e0b61a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1848996081780282910
+    second: area_verde_dir_cima
+  - first:
+      213: 5615805550270802833
+    second: area_verde_esq_cima
+  - first:
+      213: 942513066954188921
+    second: estrada
+  - first:
+      213: -1440749414153747765
+    second: area_verde_normal
+  - first:
+      213: -3054166786452114063
+    second: area_verde_casa
+  - first:
+      213: 2876887726043698671
+    second: combustivel
+  - first:
+      213: -3366239765947673236
+    second: ponte
+  - first:
+      213: 8255899039074096811
+    second: area_verde_dir_baixo
+  - first:
+      213: -2092955825593306086
+    second: area_verde_esq_baixo
+  - first:
+      213: -4909651061707445889
+    second: fundo
+  - first:
+      213: -3445572079439653730
+    second: elementos cenarios_0
+  - first:
+      213: -7560551573465374541
+    second: elementos cenarios_1
+  - first:
+      213: 4392991418005296399
+    second: elementos cenarios_2
+  - first:
+      213: 3700778455239838731
+    second: elementos cenarios_3
+  - first:
+      213: -4793243919321623431
+    second: elementos cenarios_4
+  - first:
+      213: -8833392109565354662
+    second: elementos cenarios_5
+  - first:
+      213: 416945903641095665
+    second: elementos cenarios_6
+  - first:
+      213: -7495444476305622222
+    second: elementos cenarios_7
+  - first:
+      213: -990867454344041804
+    second: elementos cenarios_8
+  - first:
+      213: -6356944237200156370
+    second: elementos cenarios_9
+  - first:
+      213: -5769327169806862643
+    second: elementos cenarios_10
+  - first:
+      213: 1470999189430828784
+    second: elementos cenarios_11
+  - first:
+      213: 6347847815038766077
+    second: elementos cenarios_12
+  - first:
+      213: -2502007729583568319
+    second: elementos cenarios_13
+  - first:
+      213: 4468717589242990100
+    second: elementos cenarios_14
+  - first:
+      213: 2320985900365074292
+    second: elementos cenarios_15
+  - first:
+      213: -8425860517956427733
+    second: elementos cenarios_16
+  - first:
+      213: -3914490407303763484
+    second: elementos cenarios_17
+  - first:
+      213: -5353498848283647325
+    second: elementos cenarios_18
+  - first:
+      213: -2485515271941298721
+    second: elementos cenarios_19
+  - first:
+      213: 5149472819741157507
+    second: elementos cenarios_20
+  - first:
+      213: 7089016983118537325
+    second: elementos cenarios_21
+  - first:
+      213: -333712282350814334
+    second: elementos cenarios_22
+  - first:
+      213: -8963166887927020469
+    second: elementos cenarios_23
+  - first:
+      213: -7199679131950594704
+    second: elementos cenarios_24
+  - first:
+      213: -2053638982108213775
+    second: elementos cenarios_25
+  - first:
+      213: 1632491607450032638
+    second: elementos cenarios_26
+  - first:
+      213: -6902131515437268989
+    second: elementos cenarios_27
+  - first:
+      213: -4635207928873249844
+    second: elementos cenarios_28
+  - first:
+      213: -5599587201169892816
+    second: elementos cenarios_29
+  - first:
+      213: -3195860856194998627
+    second: elementos cenarios_30
+  - first:
+      213: -8917925635593101981
+    second: elementos cenarios_31
+  - first:
+      213: -256998327005185762
+    second: elementos cenarios_32
+  - first:
+      213: 9081711492988715263
+    second: elementos cenarios_33
+  - first:
+      213: 3080071895405979260
+    second: elementos cenarios_34
+  - first:
+      213: -7237583291011592652
+    second: elementos cenarios_35
+  - first:
+      213: 2162444701281051785
+    second: elementos cenarios_36
+  - first:
+      213: -223730361923795037
+    second: elementos cenarios_37
+  - first:
+      213: 8136242030569489447
+    second: elementos cenarios_38
+  - first:
+      213: 431167229697315361
+    second: elementos cenarios_39
+  - first:
+      213: 6496962737858709697
+    second: elementos cenarios_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: area_verde_dir_cima
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 132
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9a56a2cdb0756e0800000000000000
+      internalID: -1848996081780282910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: area_verde_esq_cima
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 132
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bee87e4695fed40800000000000000
+      internalID: 5615805550270802833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrada
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 106
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978e7f704aa741d00800000000000000
+      internalID: 942513066954188921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: area_verde_normal
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 107
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2830f8a0e610ce0800000000000000
+      internalID: -1440749414153747765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: area_verde_casa
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 107
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175b9b84d7b6d95d0800000000000000
+      internalID: -3054166786452114063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combustivel
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 107
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe51489f422cce720800000000000000
+      internalID: 2876887726043698671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponte
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 108
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6515e994c6b841d0800000000000000
+      internalID: -3366239765947673236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: area_verde_dir_baixo
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 98
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba610853f68d29270800000000000000
+      internalID: 8255899039074096811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: area_verde_esq_baixo
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 98
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a143decf3c354f2e0800000000000000
+      internalID: -2092955825593306086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fundo
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 29
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79eecf2f5a6ddbb0800000000000000
+      internalID: -4909651061707445889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
